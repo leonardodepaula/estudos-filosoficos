@@ -2,6 +2,8 @@
 
 ## Giovanni Reale - História da Filosofia - Volume 5 - Do Romantismo ao Empiriocriticismo
 
+### Idéia
+
 A "idéia" é para Hegel o termo mais idôneo para exprimir em geral o absoluto, isto é, o Deus uno e trino do cristianismo, em sua tota­lidade. A idéia absoluta se autogera, gerando ao mesmo tempo a própria determinação e superando-a com­ pletamente: ela se atua e se realiza sempre como infinito que põe e ao mesmo tempo supera o finito.
 
 A idéia absoluta hegeliana é assim como um círculo em que princípio e fim coincidem de modo dinâmico, ou melhor, como um movimento em
