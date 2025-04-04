@@ -22,6 +22,11 @@ O movimento autoprodutivo da idéia absoluta tem, portanto, um ritmo triádico, 
 
 Tudo é, portanto, desenvolvimento da idéia, e a famosa frase de Hegel segundo a qual "tudo aquilo que é real é racional e tudo aquilo que é racional é real" indica justamente que a realidade é o próprio desenvolver-se da idéia, e vice-versa.
 
+## Pontos-chave
+
+- A captação da verdade é condicionada pela mediação;
+- É falso que exista um saber imediato e desprovido de mediação;
+
 ## Pontos a serem esclarecidos
 
 - O que é o negativo em Hegel?
