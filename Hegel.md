@@ -34,11 +34,27 @@ Os românticos têm razão ao afirmarem a necessidade de ir além dos limites pr
 
 O único método em grau de garantir o conhecimento científico do absoluto, e de elevar assim a filosofia a ciência, é, segundo Hegel, o método dialético, por meio do qual a verdade pode finalmente receber a forma rigorosa do sistema da cientificidade.
 
-A dialética nascera no ambiente da Escola de Eléia, principalmente com Zenão, e na grecidade havia alcan­ çado seus vértices com Platão; na era moderna fora retomada por Kant, que porém a privara de verdadeiro valor cognoscitivo. Hegel se remete à dialética clássica, mas conferindo movimento e dinamicidade às essên­cias e aos conceitos universais que, já descobertos pelos antigos, haviam porém permanecido com eles em uma espécie de repouso rígido, quase solidificados. O coração da dialética se torna assim o movimento, e preci­ samente o movimento circular ou em espiral, com ritmo triádico. Os três momentos do movimento dialético são:
+A dialética nascera no ambiente da Escola de Eléia, principalmente com Zenão, e na grecidade havia alcan­çado seus vértices com Platão; na era moderna fora retomada por Kant, que porém a privara de verdadeiro valor cognoscitivo. Hegel se remete à dialética clássica, mas conferindo movimento e dinamicidade às essên­cias e aos conceitos universais que, já descobertos pelos antigos, haviam porém permanecido com eles em uma espécie de repouso rígido, quase solidificados. O coração da dialética se torna assim o movimento, e preci­samente o movimento circular ou em espiral, com ritmo triádico. Os três momentos do movimento dialético são:
 
 1) a tese, que é o momento abstrato ou intelectivo;
-2) a antítese, que é o momento dia­ lético (em sentido estrito) ou negati­ vamente racional;
-3) a síntese, que é o momento especu­ lativo ou positivamente racional.
+2) a antítese, que é o momento dia­lético (em sentido estrito) ou negati­vamente racional;
+3) a síntese, que é o momento especu­lativo ou positivamente racional.
+
+[...]
+
+Entre outras coisas, cabe precisa­mente a Hegel o mérito de ter reconhecido os diálogos chamados “dialéticos” de Platão, ou seja, o Parmênides, o Sofista e o Filebo, que antes dele eram deixados de lado, mas que depois dele, em consequência, passaram a ser reconhecidos como fundamentais.
+
+[...]
+
+Os antigos, diz Hegel, deram grande passo no caminho da cientificidade, en­ quanto souberam se elevar do particular ao universal. Platão mostrara a deficiência do conhecimento sensível como mera “opinião” e se elevara ao mundo das idéias. Aristóteles acrescentou o caminho para relacionar cada coisa particular ao conceito universal. En­ tretanto, para Hegel, as idéias platônicas e os conceitos aristotélicos ficaram, por assim dizer, bloqueados em rígida quietude e quase solidificados. Como, porém, a realidade é devir, é movimento e dinamismo, é evidente que, para ser instrumento adequado, a dialé­ tica deveria ser reformada nesse sentido. É preciso, portanto, imprimir movi­ mento às essências e ao pensamento uni­ versal já descobertos pelos antigos. Escreve Hegel: “Por meio desse movimento, os puros pensamentos tornam-se conceitos, e só então são o que verdadeiramente são: automovimentos, círculos [...], essências espirituais. Esse movimento das essências puras cons­ titui em geral a natureza da cientificidade”.
+
+[...]
+
+A compreensão dos “três lados” ou momentos do movimento dialético nos le­ vará a compreender o ponto mais íntimo, o verdadeiro fundamento de Hegel. Esses três momentos são geralmente indicados com os termos tese, antítese e síntese, mas de modo simplificado, pois Hegel os usa poucas vezes, preferindo linguagem muito mais complexa e articulada:
+
+1) o primeiro momento Hegel chama de “o lado abstrato ou intelectivo”;
+2) o segundo momento, por seu turno, denominava-se “o lado dialético (em sentido estrito) ou negativamente racional”;
+3) o terceiro momento é chamado de “o lado especulativo ou positivamente racional”.
 
 ## Pontos-chave
 
@@ -47,5 +63,5 @@ A dialética nascera no ambiente da Escola de Eléia, principalmente com Zenão,
 
 ## Pontos nebulosos
 
+- O que é o espírito em Hegel?
 - O que é o negativo em Hegel?
-- O esquema de tese, antítese e síntese tem origem em Hegel mesmo?
