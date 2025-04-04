@@ -22,11 +22,30 @@ O movimento autoprodutivo da idéia absoluta tem, portanto, um ritmo triádico, 
 
 Tudo é, portanto, desenvolvimento da idéia, e a famosa frase de Hegel segundo a qual "tudo aquilo que é real é racional e tudo aquilo que é racional é real" indica justamente que a realidade é o próprio desenvolver-se da idéia, e vice-versa.
 
+### Contra o intuicionismo
+
+Os românticos têm razão ao afirmarem a necessidade de ir além dos limites próprios da atividade do “intelecto”, que, com seus procedimentos analíticos ou com suas técnicas dedutivas, não sabe ir além do finito e, portanto, não pode captar a realidade e o verdadeiro, que são o infinito. Todavia, o infinito não se capta com o sentimento, com a intuição ou com a fé, que são algo de não-científico.
+
+### Dialética
+
+É preciso, portanto, ir além da “ametodicidade” do sentimento e do entusiasmo, e encontrar um “método” que torne possível o conhecimento do absoluto, precisamente de modo “científico”. A função que Hegel atribui a si próprio em relação aos român­ ticos ou aos idealistas anteriores, portanto, é a de “operar a elevação da filosofia a ciên­cia”, através da descoberta e da aplicação de um “novo método”. Esse método, capaz de levar além dos limites do “intelecto”, a ponto de garantir o conhecimento “científi­ co” do infinito (do real em sua totalidade), Hegel o encontra na dialética. A dialética, portanto, torna-se o instrumento com o qual o filósofo dá forma aos lemas românticos informes e com o qual considera poder apresentar o verdadeiro na forma rigorosa que cabe ao verdadeiro, ou seja, no sistema da cientificidade.
+
+[...]
+
+O único método em grau de garantir o conhecimento científico do absoluto, e de elevar assim a filosofia a ciência, é, segundo Hegel, o método dialético, por meio do qual a verdade pode finalmente receber a forma rigorosa do sistema da cientificidade.
+
+A dialética nascera no ambiente da Escola de Eléia, principalmente com Zenão, e na grecidade havia alcan­ çado seus vértices com Platão; na era moderna fora retomada por Kant, que porém a privara de verdadeiro valor cognoscitivo. Hegel se remete à dialética clássica, mas conferindo movimento e dinamicidade às essên­cias e aos conceitos universais que, já descobertos pelos antigos, haviam porém permanecido com eles em uma espécie de repouso rígido, quase solidificados. O coração da dialética se torna assim o movimento, e preci­ samente o movimento circular ou em espiral, com ritmo triádico. Os três momentos do movimento dialético são:
+
+1) a tese, que é o momento abstrato ou intelectivo;
+2) a antítese, que é o momento dia­ lético (em sentido estrito) ou negati­ vamente racional;
+3) a síntese, que é o momento especu­ lativo ou positivamente racional.
+
 ## Pontos-chave
 
 - A captação da verdade é condicionada pela mediação;
 - É falso que exista um saber imediato e desprovido de mediação;
 
-## Pontos a serem esclarecidos
+## Pontos nebulosos
 
 - O que é o negativo em Hegel?
+- O esquema de tese, antítese e síntese tem origem em Hegel mesmo?
